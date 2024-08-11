@@ -1,0 +1,11 @@
+*.json
+*.sh
+*.stash
+Makefile
+build
+Staging
+Snapshot
+Mods
+Modpack
+Borderlands
+.cache
